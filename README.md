@@ -25,7 +25,10 @@
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+Utilizando o App da Expo, pode verificar a aplicação através do link: https://snack.expo.dev/@gildoamaral/github.com-icei-puc-minas-pmv-ads-pmv-ads-2024-1-e3-proj-mov-t3-pmv-ads-2023-1-e3-proj-mov-t3-controla
+
+![image](https://github.com/user-attachments/assets/96616cc6-a15c-4a1e-bdef-f2d0cbbee4dd)
+
 
 # Documentação
 
@@ -45,10 +48,8 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
 
-# Código
+# Apresentação da Solução
 
-<li><a href="src/README.md"> Código Fonte</a></li>
+**Conheça o seu novo aplicativo de Gestão Financeira**
 
-# Apresentação
-
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t3-pmv-ads-2023-1-e3-proj-mov-t3-controla/assets/127629619/da5faabe-9791-4482-b49e-169f830a13fb
